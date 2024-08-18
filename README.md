@@ -5,8 +5,11 @@ application layer protocols, transport layer protocols, network layer protocols,
 
 # Assignments
 Assignment 1-12.5/15 <br/>
+Comments: Wrong Python filename. 5. Need more detail on the report.
 Assignment 2-11/15 <br/>
+Comments: 3. no gif 4.2. empty. 5. no gif
 Assignment 3-13/15 <br/>
+Comments:  2.c. wrong. q4 partial score: 6, 6, 6, 6, 6
 
 # Syllabus
 1. Computer Networks and the Internet
